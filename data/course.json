@@ -1,0 +1,48 @@
+{
+  "term": "January IAP",
+  "year": "2019",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Graphics and Visualization"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Programming Languages"
+    ]
+  ],
+  "legacy_uid": "b621a9c4-01e5-5856-0b7d-82d464af4c83",
+  "instructors": {
+    "content": [
+      "b5cf2bab-0422-cafb-34e5-08a528c18e7b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "20d4110b-5815-d78f-8487-6f348a30d844",
+    "website": "6-057-introduction-to-matlab-january-iap-2019"
+  },
+  "course_title": "Introduction to MATLAB",
+  "course_description": "This is an accelerated introduction to MATLAB\u00ae and its popular toolboxes. Lectures are interactive, with students conducting sample MATLAB problems in real time. The course includes problem-based MATLAB assignments. Students must provide their own laptop and software. This is great preparation for classes that use MATLAB.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.057",
+  "course_image_thumbnail": {
+    "content": "2711e86c-4144-9fd1-31cf-90cfbf3309db",
+    "website": "6-057-introduction-to-matlab-january-iap-2019"
+  },
+  "learning_resource_types": [
+    "Programming Assignments",
+    "Lecture Notes"
+  ],
+  "site_uid": "70363494-8558-418c-b8f1-2c0f570acd46",
+  "site_short_id": "6.057-january-iap-2019",
+  "title": "Course Metadata"
+}
